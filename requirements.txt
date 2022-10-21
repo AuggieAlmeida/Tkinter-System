@@ -1,0 +1,4 @@
+pip==22.3
+tk<=0.1.0
+pillow<=9.2.0
+tkcalendar~=1.6.1
